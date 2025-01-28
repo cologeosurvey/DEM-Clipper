@@ -55,3 +55,8 @@ The box determines which USGS service the tool should use to acquire the DEMs, i
 
 For any issues email Declan Knies at dknies@mines.edu
 
+## Credit
+
+DEMClipper ArcToolbox developed by Declan Knies at the Colorado Geological Survey
+
+Credit for the USGS dem_getter modules goes to Sam Johnstone at the USGS and you can get the latest version here: https://code.usgs.gov/gecsc/dem_getter
