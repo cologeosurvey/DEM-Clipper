@@ -1,5 +1,5 @@
 # DEM Clipper Tool
-Developed by Declan Knies with help from Sam Johnstone and the USGS's [dem_getter](https://code.usgs.gov/gecsc/dem_getter/-/tree/1.0.0).
+Developed by Declan Knies, USGS direct source graciously recieved help from Sam Johnstone and the USGS's [dem_getter](https://code.usgs.gov/gecsc/dem_getter/-/tree/1.0.0).
 
 ## Introduction
 
